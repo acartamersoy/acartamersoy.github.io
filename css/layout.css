@@ -386,12 +386,6 @@ ul#nav li.current a { color: #fe6928; }
    background: #fff;
    padding-top: 30px;
    overflow: hidden;
-
-   
-   /* line-height: 30px; */
-   /* font-weight: normal; */
-   /* font-family: 'opensans-bold', sans-serif; */
-   /* color: #313131; */
 }
 
 #award a, #award a:visited  { color: #0762f9; }
@@ -412,6 +406,30 @@ ul#nav li.current a { color: #fe6928; }
 #award .header-col { padding-top: 9px; }
 #award .main-col { padding-right: 3%; }
 
+
+#service {
+   background: #fff;
+   padding-top: 30px;
+   overflow: hidden;
+}
+
+#service a, #service a:visited  { color: #0762f9; }
+#service a:hover, #service a:focus { color: #313131; }
+
+#service h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+#service h1 span {
+   border-bottom: 3px solid #0762f9;
+   padding-bottom: 6px;
+}
+
+#service h5 { font-size: 18px; }
+
+#service .header-col { padding-top: 9px; }
+#service .main-col { padding-right: 3%; }
 
 
 /*----------------------------------------------*/

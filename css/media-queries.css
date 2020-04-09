@@ -259,7 +259,7 @@
    }
    #education h1 { letter-spacing: 3px; }
    #education .main-col { padding-right: 30px; }
-   #education h3, #resume .info { text-align: center; }
+   #education h3, #education .info { text-align: center; }
 
    #publication .header-col {
       padding-top: 0;
@@ -268,7 +268,7 @@
    }
    #publication h1 { letter-spacing: 3px; }
    #publication .main-col { padding-right: 30px; }
-   #publication h3, #resume .info { text-align: center; }
+   #publication h3, #publication .info { text-align: center; }
 
    #patent .header-col {
       padding-top: 0;
@@ -277,7 +277,7 @@
    }
    #patent h1 { letter-spacing: 3px; }
    #patent .main-col { padding-right: 30px; }
-   #patent h3, #resume .info { text-align: center; }
+   #patent h3, #patent .info { text-align: center; }
 
    #award .header-col {
       padding-top: 0;
@@ -286,7 +286,16 @@
    }
    #award h1 { letter-spacing: 3px; }
    #award .main-col { padding-right: 30px; }
-   #award h3, #resume .info { text-align: center; }
+   #award h3, #award .info { text-align: center; }
+
+   #service .header-col {
+      padding-top: 0;
+      margin-bottom: 48px;
+      text-align: center;
+   }
+   #service h1 { letter-spacing: 3px; }
+   #service .main-col { padding-right: 30px; }
+   #service h3, #service .info { text-align: center; }
       
    .bars { width: 100%; }
 
