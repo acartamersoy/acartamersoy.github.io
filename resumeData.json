@@ -1122,7 +1122,9 @@
         ],
         "special":"yes",
         "no1":"10,789,363",
-        "no2":"10,795,999"
+        "link1":"https://patents.google.com/patent/US10789363B1/",
+        "no2":"10,795,999",
+        "link2":"https://patents.google.com/patent/US10795999B1/"
       },
       {
         "title":"Systems and methods for detecting security incidents",
