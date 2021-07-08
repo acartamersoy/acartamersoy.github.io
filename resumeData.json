@@ -274,6 +274,15 @@
     },
     "julia":{
       "name":"Julia Narakornpichit"
+    },
+    "platon":{
+      "name":"Platon Kotzias"
+    },
+    "anil":{
+      "name":"Anil Sharma"
+    },
+    "arif":{
+      "name":"Arif Shaikh"
     }
   },
   "resume":{
@@ -1053,7 +1062,64 @@
     ],
     "patent":[
       {
-        "title":"Nuanced and explained detections of inter-personal attack apps",
+        "title":"Systems and methods for utilizing user identity notifications to protect against potential privacy attacks on mobile devices",
+        "authors":[
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"acar"
+          },
+          {
+            "author":"yufei"
+          },
+          {
+            "author":"anil"
+          },
+          {
+            "author":"arif"
+          }
+        ],
+        "no":"Pending (Application No. 17/206,299)"
+      },
+      {
+        "title":"Systems and methods for protecting data on devices",
+        "authors":[
+          {
+            "author":"yufei"
+          },
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"acar"
+          },
+          {
+            "author":"daniel"
+          }
+        ],
+        "no":"Pending (Application No. 17/166,925)"
+      },
+      {
+        "title":"Protecting against an impersonation scam in a live video stream",
+        "authors":[
+          {
+            "author":"acar"
+          },
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"daniel"
+          },
+          {
+            "author":"platon"
+          }
+        ],
+        "no":"Pending (Application No. 17/158,892)"
+      },
+      {
+        "title":"Systems and methods for detecting inter-personal attack applications",
         "authors":[
           {
             "author":"yufei"
@@ -1065,7 +1131,7 @@
             "author":"acar"
           }
         ],
-        "no":"Pending"
+        "no":"Pending (Application No. 16/909,803)"
       },
       {
         "title":"Managing access to shared digital content for romantic partners undergoing separation",
@@ -1080,7 +1146,43 @@
             "author":"acar"
           }
         ],
-        "no":"Pending"
+        "no":"Pending (Application No. 16/717,876)"
+      },
+      {
+        "title":"Systems and methods for authenticating digital media content",
+        "authors":[
+          {
+            "author":"daniel"
+          },
+          {
+            "author":"chris"
+          },
+          {
+            "author":"acar"
+          },
+          {
+            "author":"dan"
+          }
+        ],
+        "no":"Pending (Application No. 16/360,515)"
+      },
+      {
+        "title":"Systems and methods for assuring authenticity of electronic sensor data",
+        "authors":[
+          {
+            "author":"daniel"
+          },
+          {
+            "author":"chris"
+          },
+          {
+            "author":"acar"
+          },
+          {
+            "author":"dan"
+          }
+        ],
+        "no":"Pending (Application No. 16/359,723)"
       },
       {
         "title":"Identifying and protecting against surveillance apps installed on client devices",
@@ -1092,46 +1194,10 @@
             "author":"acar"
           }
         ],
-        "no":"Pending"
+        "no":"Pending (Application No. 16/286,050)"
       },
       {
-        "title":"Systems and methods for digitally signing data",
-        "authors":[
-          {
-            "author":"daniel"
-          },
-          {
-            "author":"chris"
-          },
-          {
-            "author":"acar"
-          },
-          {
-            "author":"dan"
-          }
-        ],
-        "no":"Pending"
-      },
-      {
-        "title":"Systems and methods for authenticating media",
-        "authors":[
-          {
-            "author":"daniel"
-          },
-          {
-            "author":"chris"
-          },
-          {
-            "author":"acar"
-          },
-          {
-            "author":"dan"
-          }
-        ],
-        "no":"Pending"
-      },
-      {
-        "title":"Improving memory efficiency of production rule systems",
+        "title":"Memory efficiency of production rule systems",
         "authors":[
           {
             "author":"dan"
@@ -1146,7 +1212,8 @@
             "author":"sandeep"
           }
         ],
-        "no":"Pending"
+        "no":"11,010,680",
+        "link":"https://patents.google.com/patent/US11010680B1"
       },
       {
         "title":"Identifying and protecting against computer security threats while preserving privacy of individual client devices using condensed local differential privacy (CLDP)",
@@ -1160,9 +1227,9 @@
         ],
         "special":"yes",
         "no1":"10,789,363",
-        "link1":"https://patents.google.com/patent/US10789363B1/",
+        "link1":"https://patents.google.com/patent/US10789363B1",
         "no2":"10,795,999",
-        "link2":"https://patents.google.com/patent/US10795999B1/"
+        "link2":"https://patents.google.com/patent/US10795999B1"
       },
       {
         "title":"Systems and methods for detecting security incidents",
