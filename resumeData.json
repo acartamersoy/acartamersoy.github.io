@@ -1,0 +1,1485 @@
+{
+  "main": {
+    "name":"Acar Tamersoy",
+    "title":"Dr.",
+    "image":"profilepic.jpeg",
+    "position":"I'm a senior research scientist in NortonLifeLock Research Group.",
+    "bio":"I hold a Ph.D. in Computer Science from Georgia Institute of Technology. My research focus is at the intersection of machine learning, security, and privacy. A common technical theme in my research is the use of graphs to capture the relationships between entities in a structure that can then be exploited computationally towards a solution to a given problem. In my recent work, I leverage quantitative methods to improve people's online security and privacy posture."
+  },
+  "people":{
+    "polo":{
+      "name":"Polo Chau",
+      "website":"https://poloclub.github.io/polochau/"
+    },
+    "pololong":{
+      "name":"Duen Horng (Polo) Chau"
+    },
+    "sham":{
+      "name":"Shamkant B. Navathe",
+      "website":"https://en.wikipedia.org/wiki/Shamkant_Navathe"
+    },
+    "munmun":{
+      "name":"Munmun De Choudhury",
+      "website":"http://www.munmund.net/"
+    },
+    "rahulbasole":{
+      "name":"Rahul C. Basole",
+      "website":"https://www.linkedin.com/in/basole"
+    },
+    "kevin":{
+      "name":"Kevin Roundy",
+      "website":"http://pages.cs.wisc.edu/~roundy/"
+    },
+    "brad":{
+      "name":"Bradley Malin",
+      "website":"https://hiplab.mc.vanderbilt.edu/people/malin/"
+    },
+    "joshdenny":{
+      "name":"Joshua C. Denny",
+      "website":"https://www.vumc.org/dbmi/person/joshua-c-denny-md-ms-facmi"
+    },
+    "tomlasko":{
+      "name":"Thomas A. Lasko",
+      "website":"https://www.vumc.org/dbmi/person/thomas-lasko-md-phd"
+    },
+    "yucelsaygin":{
+      "name":"Yucel Saygin",
+      "website":"http://people.sabanciuniv.edu/ysaygin/"
+    },
+    "acar":{
+      "name":"Acar Tamersoy"
+    },
+    "mikespertus":{
+      "name":"Michael Spertus"
+    },
+    "mikehart":{
+      "name":"Michael Hart"
+    },
+    "daniel":{
+      "name":"Daniel Kats"
+    },
+    "matteodellamico":{
+      "name":"Matteo Dell'Amico"
+    },
+    "robertscott":{
+      "name":"Robert Scott"
+    },
+    "robert":{
+      "name":"Robert Pienta"
+    },
+    "fred":{
+      "name":"Fred Hohman"
+    },
+    "alexendert":{
+      "name":"Alex Endert"
+    },
+    "chris":{
+      "name":"Chris Gates"
+    },
+    "hanghang":{
+      "name":"Hanghang Tong"
+    },
+    "emre":{
+      "name":"Mehmet Emre Gursoy"
+    },
+    "staceytruex":{
+      "name":"Stacey Truex"
+    },
+    "wenqiwei":{
+      "name":"Wenqi Wei"
+    },
+    "lingliu":{
+      "name":"Ling Liu"
+    },
+    "yixin":{
+      "name":"Yixin Zou"
+    },
+    "saurabh":{
+      "name":"Saurabh Shintre"
+    },
+    "johann":{
+      "name":"Johann Roturier"
+    },
+    "florian":{
+      "name":"Florian Schaub"
+    },
+    "paulabermaimonmendelberg":{
+      "name":"Paula Bermaimon Mendelberg"
+    },
+    "nicoladell":{
+      "name":"Nicola Dell"
+    },
+    "damonmccoy":{
+      "name":"Damon McCoy"
+    },
+    "danielnissani":{
+      "name":"Daniel Nissani"
+    },
+    "tomristenpart":{
+      "name":"Thomas Ristenpart"
+    },
+    "mollydavies":{
+      "name":"Molly Davies"
+    },
+    "dan":{
+      "name":"Daniel Marino"
+    },
+    "amelia":{
+      "name":"Amelia Nash"
+    },
+    "mahmood":{
+      "name":"Mahmood Sharif"
+    },
+    "sucheta":{
+      "name":"Sucheta Soundarajan"
+    },
+    "elias":{
+      "name":"Elias Khalil"
+    },
+    "tina":{
+      "name":"Tina Eliassi-Rad"
+    },
+    "brian":{
+      "name":"Brian Gallagher"
+    },
+    "hua":{
+      "name":"Hua Ouyang"
+    },
+    "srishti":{
+      "name":"Srishti Gupta"
+    },
+    "markbraunstein":{
+      "name":"Mark L. Braunstein"
+    },
+    "vikaskumar":{
+      "name":"Vikas Kumar"
+    },
+    "hyunwoopark":{
+      "name":"Hyunwoo Park"
+    },
+    "minsuk":{
+      "name":"Minsuk Kahng"
+    },
+    "danielhirsh":{
+      "name":"Daniel A. Hirsh"
+    },
+    "nicoletaserban":{
+      "name":"Nicoleta Serban"
+    },
+    "jamesbost":{
+      "name":"James Bost"
+    },
+    "burtonlesnick":{
+      "name":"Burton Lesnick"
+    },
+    "bethschissel":{
+      "name":"Beth L. Schissel"
+    },
+    "michaelthompson":{
+      "name":"Michael Thompson"
+    },
+    "bo":{
+      "name":"Bo Xie"
+    },
+    "stephenlenkey":{
+      "name":"Stephen L. Lenkey"
+    },
+    "bryanroutledge":{
+      "name":"Bryan R. Routledge"
+    },
+    "dewang":{
+      "name":"De Wang"
+    },
+    "daneshirani":{
+      "name":"Danesh Irani"
+    },
+    "caltonpu":{
+      "name":"Calton Pu"
+    },
+    "greg":{
+      "name":"Grigorios Loukides"
+    },
+    "ercannergiz":{
+      "name":"Mehmet Ercan Nergiz"
+    },
+    "sandeep":{
+      "name":"Sandeep Bhatkar"
+    },
+    "sourabhsatish":{
+      "name":"Sourabh Satish"
+    },
+    "fanglu":{
+      "name":"Fanglu Guo"
+    },
+    "taocheng":{
+      "name":"Tao Cheng"
+    },
+    "jiefu":{
+      "name":"Jie Fu"
+    },
+    "zhikaili":{
+      "name":"Zhi Kai Li"
+    },
+    "darren":{
+      "name":"Darren Shou"
+    },
+    "sanjay":{
+      "name":"Sanjay Sawhney"
+    },
+    "yufei":{
+      "name":"Yufei Han"
+    },
+    "allison":{
+      "name":"Allison McDonald"
+    },
+    "julia":{
+      "name":"Julia Narakornpichit"
+    },
+    "platon":{
+      "name":"Platon Kotzias"
+    },
+    "anil":{
+      "name":"Anil Sharma"
+    },
+    "arif":{
+      "name":"Arif Shaikh"
+    },
+    "yun":{
+      "name":"Yun Shen"
+    },
+    "janet":{
+      "name":"Janet X. Chen"
+    },
+    "emily":{
+      "name":"Emily Tseng"
+    },
+    "david":{
+      "name":"David Silva"
+    },
+    "iskander":{
+      "name":"Iskander Sanchez-Rola"
+    }
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Georgia Institute of Technology",
+        "degree":"Ph.D.",
+        "major":"Computer Science",
+        "graduated":"2016",
+        "advisor":"polo",
+        "coadvisor":"sham",
+        "thesis":{
+          "title":"Graph-based Algorithms and Models for Security, Healthcare, and Finance",
+          "link":"https://smartech.gatech.edu/bitstream/handle/1853/54986/TAMERSOY-DISSERTATION-2016.pdf"
+        },
+        "committee":[
+          {
+            "member":"polo"
+          },
+          {
+            "member":"sham"
+          },
+          {
+            "member":"munmun"
+          },
+          {
+            "member":"rahulbasole"
+          },
+          {
+            "member":"kevin"
+          }
+        ]
+      },
+      {
+        "school":"Vanderbilt University",
+        "degree":"M.S.",
+        "major":"Biomedical Informatics",
+        "graduated":"2011",
+        "advisor":"brad",
+        "thesis":{
+          "title":"Anonymization of Longitudinal Electronic Medical Records for Clinical Research",
+          "link":"http://etd.library.vanderbilt.edu/available/etd-06092011-190625/unrestricted/tamersoy_thesis.pdf"
+        },
+        "committee":[
+          {
+            "member":"brad"
+          },
+          {
+            "member":"joshdenny"
+          },
+          {
+            "member":"tomlasko"
+          }
+        ]
+      },
+      {
+        "school":"Sabanci University",
+        "degree":"B.S.",
+        "major":"Computer Science and Engineering",
+        "graduated":"2009"
+      }
+    ],
+    "publication":[
+      {
+        "title":"Trauma-Informed Computing: Towards Safer Technology Experiences for All",
+        "authors":[
+          {
+            "author":"janet"
+          },
+          {
+            "author":"allison"
+          },
+          {
+            "author":"yixin"
+          },
+          {
+            "author":"emily"
+          },
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"acar"
+          },
+          {
+            "author":"florian"
+          },
+          {
+            "author":"tomristenpart"
+          },
+          {
+            "author":"nicoladell"
+          }
+        ],
+        "conference":"the 2022 ACM SIGCHI Conference on Human Factors in Computing Systems (CHI)",
+        "year":"2022",
+        "pdf":"chen_chi22.pdf",
+        "selected":"yes"
+      },
+      {
+        "title":"Towards Stalkerware Detection with Precise Warnings",
+        "authors":[
+          {
+            "author":"yufei"
+          },
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"acar"
+          }
+        ],
+        "conference":"the 37th Annual Computer Security Applications Conference (ACSAC)",
+        "year":"2021",
+        "pdf":"han_acsac21.pdf",
+        "selected":"yes"
+      },
+      {
+        "title":"The Role of Computer Security Customer Support in Helping Survivors of Intimate Partner Violence",
+        "authors":[
+          {
+            "author":"yixin"
+          },
+          {
+            "author":"allison"
+          },
+          {
+            "author":"julia"
+          },
+          {
+            "author":"nicoladell"
+          },
+          {
+            "author":"tomristenpart"
+          },
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"florian"
+          },
+          {
+            "author":"acar"
+          }
+        ],
+        "conference":"the 30th USENIX Security Symposium (USENIX Security)",
+        "year":"2021",
+        "pdf":"zou_usenix21.pdf",
+        "selected":"yes"
+      },
+      {
+        "title":"Examining the Adoption and Abandonment of Security, Privacy, and Identity Theft Protection Practices",
+        "authors":[
+          {
+            "author":"yixin"
+          },
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"acar"
+          },
+          {
+            "author":"saurabh"
+          },
+          {
+            "author":"johann"
+          },
+          {
+            "author":"florian"
+          }
+        ],
+        "conference":"the 2020 ACM SIGCHI Conference on Human Factors in Computing Systems (CHI)",
+        "year":"2020",
+        "pdf":"zou_chi20.pdf",
+        "award":"Best Paper Honorable Mention",
+        "selected":"yes"
+      },
+      {
+        "title":"Training Older Adults to Resist Scams with Fraud Bingo and Scam Detection Challenges",
+        "authors":[
+          {
+            "author":"mollydavies"
+          },
+          {
+            "author":"dan"
+          },
+          {
+            "author":"amelia"
+          },
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"mahmood"
+          },
+          {
+            "author":"acar"
+          }
+        ],
+        "conference":"the CHI Workshop on Designing Interactions for the Ageing Populations - Addressing Global Challenges",
+        "year":"2020",
+        "pdf":"davies_chiw20.pdf",
+        "bibtex":"",
+        "selected":"no"
+      },
+      {
+        "title":"The Many Kinds of Creepware Used for Interpersonal Attacks",
+        "authors":[
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"paulabermaimonmendelberg"
+          },
+          {
+            "author":"nicoladell"
+          },
+          {
+            "author":"damonmccoy"
+          },
+          {
+            "author":"danielnissani"
+          },
+          {
+            "author":"tomristenpart"
+          },
+          {
+            "author":"acar"
+          }
+        ],
+        "conference":"the 41st IEEE Symposium on Security and Privacy (S&P)",
+        "year":"2020",
+        "pdf":"roundy_sp20.pdf",
+        "selected":"yes"
+      },
+      {
+        "title":"Secure and Utility-Aware Data Collection with Condensed Local Differential Privacy",
+        "authors":[
+          {
+            "author":"emre"
+          },
+          {
+            "author":"acar"
+          },
+          {
+            "author":"staceytruex"
+          },
+          {
+            "author":"wenqiwei"
+          },
+          {
+            "author":"lingliu"
+          }
+        ],
+        "journal":"IEEE Transactions on Dependable and Secure Computing (TDSC)",
+        "volnum":"18(5)",
+        "year":"2019",
+        "pdf":"gursoy_tdsc19.pdf",
+        "selected":"yes"
+      },
+      {
+        "title":"VIGOR: Interactive Visual Exploration of Graph Query Results",
+        "authors":[
+          {
+            "author":"robert"
+          },
+          {
+            "author":"fred"
+          },
+          {
+            "author":"alexendert"
+          },
+          {
+            "author":"acar"
+          },
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"chris"
+          },
+          {
+            "author":"sham"
+          },
+          {
+            "author":"pololong"
+          }
+        ],
+        "journal":"IEEE Transactions on Visualization and Computer Graphics (TVCG)",
+        "volnum":"24(1)",
+        "year":"2018",
+        "pdf":"pienta_tvcg18.pdf",
+        "selected":"yes"
+      },
+      {
+        "title":"Smoke Detector: Cross-Product Intrusion Detection With Weak Indicators",
+        "authors":[
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"acar"
+          },
+          {
+            "author":"mikespertus"
+          },
+          {
+            "author":"mikehart"
+          },
+          {
+            "author":"daniel"
+          },
+          {
+            "author":"matteodellamico"
+          },
+          {
+            "author":"robertscott"
+          }
+        ],
+        "conference":"the 33rd Annual Computer Security Applications Conference (ACSAC)",
+        "year":"2017",
+        "pdf":"roundy_acsac17.pdf",
+        "bibtex":"https://scholar.googleusercontent.com/scholar.bib?q=info:O9hVIPPmG0wJ:scholar.google.com/&output=citation&scisdr=CgXEKm6kEP63p4rZYJE:AAGBfm0AAAAAXnvceJHAcv-0bHhAynZjkUoGhpL8WSyT&scisig=AAGBfm0AAAAAXnvceI5kOWYwpeASdiDkaHfxnoyy6KH-&scisf=4&ct=citation&cd=-1&hl=en",
+        "selected":"yes"
+      },
+      {
+        "title":"Analysis of Smoking and Drinking Relapse in an Online Community",
+        "authors":[
+          {
+            "author":"acar"
+          },
+          {
+            "author":"pololong"
+          },
+          {
+            "author":"munmun"
+          }
+        ],
+        "conference":"the 7th ACM Conference on Digital Health (DH)",
+        "year":"2017",
+        "pdf":"tamersoy_dh17.pdf",
+        "bibtex":"https://scholar.googleusercontent.com/scholar.bib?q=info:r7_kEuKj7SsJ:scholar.google.com/&output=citation&scisdr=CgXEKm6kEP63p4rZgKM:AAGBfm0AAAAAXnvcmKMWHZRMh-UwTlbAeqKfAHhet9xG&scisig=AAGBfm0AAAAAXnvcmM0DPVpxYHMnymcmMWFH06OoiQio&scisf=4&ct=citation&cd=-1&hl=en",
+        "selected":"yes"
+      },
+      {
+        "title":"Visual Graph Query Construction and Refinement",
+        "authors":[
+          {
+            "author":"robert"
+          },
+          {
+            "author":"fred"
+          },
+          {
+            "author":"acar"
+          },
+          {
+            "author":"alexendert"
+          },
+          {
+            "author":"sham"
+          },
+          {
+            "author":"hanghang"
+          },
+          {
+            "author":"pololong"
+          }
+        ],
+        "conference":"the 2017 ACM International Conference on Management of Data (SIGMOD)",
+        "year":"2017",
+        "pdf":"pienta_sigmod17.pdf",
+        "bibtex":"https://scholar.googleusercontent.com/scholar.bib?q=info:3_QpMU1YjN0J:scholar.google.com/&output=citation&scisdr=CgXEKm6kEP63p4rZztg:AAGBfm0AAAAAXnvc1tjvwWjItF-mf9h1eCs92pYwQygt&scisig=AAGBfm0AAAAAXnvc1mn_t-LgFhK_CujQ3NtuCMinwGkL&scisf=4&ct=citation&cd=-1&hl=en",
+        "comments":"(Poster)",
+        "award":"Best Demonstration Honorable Mention",
+        "selected":"yes"
+      },
+      {
+        "title":"VISAGE: Interactive Visual Graph Querying",
+        "authors":[
+          {
+            "author":"robert"
+          },
+          {
+            "author":"acar"
+          },
+          {
+            "author":"alexendert"
+          },
+          {
+            "author":"sham"
+          },
+          {
+            "author":"hanghang"
+          },
+          {
+            "author":"pololong"
+          }
+        ],
+        "conference":"the 13th International Working Conference on Advanced Visual Interfaces (AVI)",
+        "year":"2016",
+        "pdf":"pienta_avi16.pdf",
+        "bibtex":"https://scholar.googleusercontent.com/scholar.bib?q=info:yVQSQJmEmskJ:scholar.google.com/&output=citation&scisdr=CgXEKm6kEP63p4rYHSs:AAGBfm0AAAAAXnvdBSvo2q5DzH7owuV_k9b_pRxUW3ZU&scisig=AAGBfm0AAAAAXnvdBdn6ST6gaTplxdYJmo2t0LYFcUXh&scisf=4&ct=citation&cd=-1&hl=en",
+        "selected":"yes"
+      },
+      {
+        "title":"Generating Graph Snapshots from Streaming Edge Data",
+        "authors":[
+          {
+            "author":"sucheta"
+          },
+          {
+            "author":"acar"
+          },
+          {
+            "author":"elias"
+          },
+          {
+            "author":"tina"
+          },
+          {
+            "author":"pololong"
+          },
+          {
+            "author":"brian"
+          },
+          {
+            "author":"kevin"
+          }
+        ],
+        "conference":"the 25th International World Wide Web Conference (WWW)",
+        "year":"2016",
+        "pdf":"soundarajan_www16.pdf",
+        "bibtex":"https://scholar.googleusercontent.com/scholar.bib?q=info:UVzmzOhWJYkJ:scholar.google.com/&output=citation&scisdr=CgXEKm6kEP63p4rYA4k:AAGBfm0AAAAAXnvdG4miTAEMaQi01YHrKTYHxEQO66rm&scisig=AAGBfm0AAAAAXnvdG1uZ3ll41YfTD5NWOWQQR1z2rFwm&scisf=4&ct=citation&cd=-1&hl=en",
+        "comments":"(Poster)",
+        "selected":"no"
+      },
+      {
+        "title":"Characterizing Smoking and Drinking Abstinence from Social Media",
+        "authors":[
+          {
+            "author":"acar"
+          },
+          {
+            "author":"munmun"
+          },
+          {
+            "author":"pololong"
+          }
+        ],
+        "conference":"the 26th ACM Conference on Hypertext and Social Media (HT)",
+        "year":"2015",
+        "pdf":"tamersoy_ht15.pdf",
+        "bibtex":"https://scholar.googleusercontent.com/scholar.bib?q=info:fLOFN5GKeIUJ:scholar.google.com/&output=citation&scisdr=CgXEKm6kEP63p4rYJbk:AAGBfm0AAAAAXnvdPbmGJW-ypm_Ii7R78kIPlX3gWtp7&scisig=AAGBfm0AAAAAXnvdPa25wSzyYUven-ijq1aL8NPr6CFH&scisf=4&ct=citation&cd=-1&hl=en",
+        "selected":"yes"
+      },
+      {
+        "title":"Effort-based Detection of Comment Spammers",
+        "authors":[
+          {
+            "author":"acar"
+          },
+          {
+            "author":"hua"
+          },
+          {
+            "author":"pololong"
+          }
+        ],
+        "conference":"the 36th IEEE Symposium on Security and Privacy (S&P)",
+        "year":"2015",
+        "pdf":"tamersoy_sp15.pdf",
+        "bibtex":"https://scholar.googleusercontent.com/scholar.bib?q=info:ch2cibOgn1sJ:scholar.google.com/&output=citation&scisdr=CgXEKm6kEP63p4rYYYs:AAGBfm0AAAAAXnvdeYuTGDTRfZPrnAOYv7EGNJrYrqZ-&scisig=AAGBfm0AAAAAXnvdeS2xuRBMB6-fODX-JDyxnfJRN6LV&scisf=4&ct=citation&cd=-1&hl=en",
+        "comments":"(Poster)",
+        "selected":"no"
+      },
+      {
+        "title":"Identifying Successful Investors in the Startup Ecosystem",
+        "authors":[
+          {
+            "author":"srishti"
+          },
+          {
+            "author":"robert"
+          },
+          {
+            "author":"acar"
+          },
+          {
+            "author":"pololong"
+          },
+          {
+            "author":"rahulbasole"
+          }
+        ],
+        "conference":"the 24th International World Wide Web Conference (WWW)",
+        "year":"2015",
+        "pdf":"gupta_www15.pdf",
+        "bibtex":"https://scholar.googleusercontent.com/scholar.bib?q=info:dxwSP9OJkVIJ:scholar.google.com/&output=citation&scisdr=CgXEKm6kEP63p4rYs6o:AAGBfm0AAAAAXnvdq6qeJpIiimTBwspXifiTC4d3NEgb&scisig=AAGBfm0AAAAAXnvdq3eRmg96ctiCzIDrDji4sde_Exay&scisf=4&ct=citation&cd=-1&hl=en",
+        "comments":"(Poster)",
+        "selected":"no"
+      },
+      {
+        "title":"Understanding Variations in Pediatric Asthma Care Processes in the Emergency Department Using Visual Analytics",
+        "authors":[
+          {
+            "author":"rahulbasole"
+          },
+          {
+            "author":"markbraunstein"
+          },
+          {
+            "author":"vikaskumar"
+          },
+          {
+            "author":"hyunwoopark"
+          },
+          {
+            "author":"minsuk"
+          },
+          {
+            "author":"pololong"
+          },
+          {
+            "author":"acar"
+          },
+          {
+            "author":"danielhirsh"
+          },
+          {
+            "author":"nicoletaserban"
+          },
+          {
+            "author":"jamesbost"
+          },
+          {
+            "author":"burtonlesnick"
+          },
+          {
+            "author":"bethschissel"
+          },
+          {
+            "author":"michaelthompson"
+          }
+        ],
+        "journal":"Journal of the American Medical Informatics Association (JAMIA)",
+        "volnum":"22(2)",
+        "year":"2015",
+        "pdf":"basole_jamia15.pdf",
+        "bibtex":"https://scholar.googleusercontent.com/scholar.bib?q=info:KrRfn-VbKCgJ:scholar.google.com/&output=citation&scisdr=CgXEKm6kEP63p4rYzc4:AAGBfm0AAAAAXnvd1c6avlwe0u-rQG7qKa6srO3n_SLq&scisig=AAGBfm0AAAAAXnvd1X_EVZBHeR7tpuDTqrBvPD-gT4tE&scisf=4&ct=citation&cd=-1&hl=en",
+        "selected":"no"
+      },
+      {
+        "title":"Interactive Querying over Large Network Data: Scalability, Visualization, and Interaction Design",
+        "authors":[
+          {
+            "author":"robert"
+          },
+          {
+            "author":"acar"
+          },
+          {
+            "author":"hanghang"
+          },
+          {
+            "author":"alexendert"
+          },
+          {
+            "author":"pololong"
+          }
+        ],
+        "conference":"the 20th ACM Conference on Intelligent User Interfaces (IUI)",
+        "year":"2015",
+        "pdf":"pienta_iui15.pdf",
+        "bibtex":"https://scholar.googleusercontent.com/scholar.bib?q=info:gTxzXDhP9VgJ:scholar.google.com/&output=citation&scisdr=CgXEKm6kEP63p4raolo:AAGBfm0AAAAAXnvfulqG-gCbDKT9rx-laj7whIIO4Hz8&scisig=AAGBfm0AAAAAXnvfuiJN6NEVWE2V1Cvkfj2vrJM2JZXV&scisf=4&ct=citation&cd=-1&hl=en",
+        "comments":"(Poster)",
+        "selected":"no"
+      },
+      {
+        "title":"Guilt by Association: Large Scale Malware Detection by Mining File-relation Graphs",
+        "authors":[
+          {
+            "author":"acar"
+          },
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"pololong"
+          }
+        ],
+        "conference":"the 20th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)",
+        "year":"2014",
+        "pdf":"tamersoy_kdd14.pdf",
+        "bibtex":"https://scholar.googleusercontent.com/scholar.bib?q=info:PX8I6DvWsUkJ:scholar.google.com/&output=citation&scisdr=CgXEKm6kEP63p4raz2c:AAGBfm0AAAAAXnvf12cq7FZgUKqZmIWIcYr8HhdkjYxH&scisig=AAGBfm0AAAAAXnvf13yZKg6RPfuyWWHPOdeGk4xvpqCo&scisf=4&ct=citation&cd=-1&hl=en",
+        "selected":"yes"
+      },
+      {
+        "title":"Large-scale Insider Trading Analysis: Patterns and Discoveries",
+        "authors":[
+          {
+            "author":"acar"
+          },
+          {
+            "author":"elias"
+          },
+          {
+            "author":"bo"
+          },
+          {
+            "author":"stephenlenkey"
+          },
+          {
+            "author":"bryanroutledge"
+          },
+          {
+            "author":"pololong"
+          },
+          {
+            "author":"sham"
+          }
+        ],
+        "journal":"Springer Social Network Analysis and Mining (SNAM)",
+        "volnum":"4(1)",
+        "year":"2014",
+        "pdf":"tamersoy_snam14.pdf",
+        "bibtex":"https://scholar.googleusercontent.com/scholar.bib?q=info:ztolDP5w62wJ:scholar.google.com/&output=citation&scisdr=CgXEKm6kEP63p4ra7uw:AAGBfm0AAAAAXnvf9uzkZJa-wW5E4sAI7mEegfaDl-R6&scisig=AAGBfm0AAAAAXnvf9t8YTotIN7_VF-5zqYMR5gHM31A3&scisf=4&ct=citation&cd=-1&hl=en",
+        "selected":"yes"
+      },
+      {
+        "title":"MAGE: Matching Approximate Patterns in Richly-Attributed Graphs",
+        "authors":[
+          {
+            "author":"robert"
+          },
+          {
+            "author":"acar"
+          },
+          {
+            "author":"hanghang"
+          },
+          {
+            "author":"pololong"
+          }
+        ],
+        "conference":"the 2nd IEEE International Conference on Big Data (BigData)",
+        "year":"2014",
+        "pdf":"pienta_bigdata14.pdf",
+        "bibtex":"https://scholar.googleusercontent.com/scholar.bib?q=info:nTAxbQyJoMgJ:scholar.google.com/&output=citation&scisdr=CgXEKm6kEP63p4rlC-Y:AAGBfm0AAAAAXnvgE-Zzn2ZK-U6dIUOLegF-8AEJFKib&scisig=AAGBfm0AAAAAXnvgEy7HVJLFcogcw4rUKY_peL9YmdzF&scisf=4&ct=citation&cd=-1&hl=en",
+        "selected":"yes"
+      },
+      {
+        "title":"Exploring Clinical Care Processes Using Visual and Data Analytics: Challenges and Opportunities",
+        "authors":[
+          {
+            "author":"vikaskumar"
+          },
+          {
+            "author":"hyunwoopark"
+          },
+          {
+            "author":"rahulbasole"
+          },
+          {
+            "author":"markbraunstein"
+          },
+          {
+            "author":"minsuk"
+          },
+          {
+            "author":"pololong"
+          },
+          {
+            "author":"acar"
+          },
+          {
+            "author":"danielhirsh"
+          },
+          {
+            "author":"nicoletaserban"
+          },
+          {
+            "author":"jamesbost"
+          },
+          {
+            "author":"burtonlesnick"
+          },
+          {
+            "author":"bethschissel"
+          },
+          {
+            "author":"michaelthompson"
+          }
+        ],
+        "conference":"the 2014 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining Workshop on Data Science for Social Good (KDD DSSG)",
+        "year":"2014",
+        "pdf":"kumar_kddw14.pdf",
+        "bibtex":"https://scholar.googleusercontent.com/scholar.bib?q=info:1DKHjTw2g7oJ:scholar.google.com/&output=citation&scisdr=CgXEKm6kEP63p4rlK7o:AAGBfm0AAAAAXnvgM7oj6ABxzzgG8PjBwBl8qs3PP-Tt&scisig=AAGBfm0AAAAAXnvgMzTG8LNAmWS9qLMLnxvlZfDWY9f9&scisf=4&ct=citation&cd=-1&hl=en",
+        "selected":"no"
+      },
+      {
+        "title":"Inside Insider Trading: Patterns & Discoveries from a Large Scale Exploratory Analysis",
+        "authors":[
+          {
+            "author":"acar"
+          },
+          {
+            "author":"bo"
+          },
+          {
+            "author":"stephenlenkey"
+          },
+          {
+            "author":"bryanroutledge"
+          },
+          {
+            "author":"pololong"
+          },
+          {
+            "author":"sham"
+          }
+        ],
+        "conference":"the 5th IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)",
+        "year":"2013",
+        "pdf":"tamersoy_asonam13.pdf",
+        "bibtex":"https://scholar.googleusercontent.com/scholar.bib?q=info:GxzK_tqxY94J:scholar.google.com/&output=citation&scisdr=CgXEKm6kEP63p4rl83Y:AAGBfm0AAAAAXnvg63ZqOMc-MJ7aY7AyxenoHicv_Vq5&scisig=AAGBfm0AAAAAXnvg6y0R6rqPaka6yCSzwHYrfKLRZWOI&scisf=4&ct=citation&cd=-1&hl=en",
+        "selected":"no"
+      },
+      {
+        "title":"Click Trafﬁc Analysis of Short URL Spam on Twitter",
+        "authors":[
+          {
+            "author":"dewang"
+          },
+          {
+            "author":"sham"
+          },
+          {
+            "author":"lingliu"
+          },
+          {
+            "author":"daneshirani"
+          },
+          {
+            "author":"acar"
+          },
+          {
+            "author":"caltonpu"
+          }
+        ],
+        "conference":"the 9th IEEE International Conference on Collaborative Computing: Networking, Applications and Worksharing (CollaborateCom)",
+        "year":"2013",
+        "pdf":"wang_collaboratecom13.pdf",
+        "bibtex":"https://scholar.googleusercontent.com/scholar.bib?q=info:udS2JNllmloJ:scholar.google.com/&output=citation&scisdr=CgXEKm6kEP63p4rszp4:AAGBfm0AAAAAXnvp1p6fG4cd8D4k0yP4L4zYOSkxx-Qp&scisig=AAGBfm0AAAAAXnvp1iwNo_9BCidv7ATHv77RiDyW4VvG&scisf=4&ct=citation&cd=-1&hl=en",
+        "selected":"no"
+      },
+      {
+        "title":"Anonymization of Longitudinal Electronic Medical Records",
+        "authors":[
+          {
+            "author":"acar"
+          },
+          {
+            "author":"greg"
+          },
+          {
+            "author":"ercannergiz"
+          },
+          {
+            "author":"yucelsaygin"
+          },
+          {
+            "author":"brad"
+          }
+        ],
+        "journal":"IEEE Transactions on Information Technology in Biomedicine (TITB)",
+        "volnum":"16(3)",
+        "year":"2012",
+        "pdf":"tamersoy_titb12.pdf",
+        "bibtex":"https://scholar.googleusercontent.com/scholar.bib?q=info:TEVdjBWGm3gJ:scholar.google.com/&output=citation&scisdr=CgXEKm6kEP63p4rs5mQ:AAGBfm0AAAAAXnvp_mStfLH8H9OjvB6-KXnO-VGl4PXN&scisig=AAGBfm0AAAAAXnvp_pSbYp_9R3EjaBeUo8cCEGoxFqT4&scisf=4&ct=citation&cd=-1&hl=en",
+        "selected":"yes"
+      },
+      {
+        "title":"Instant Anonymization",
+        "authors":[
+          {
+            "author":"ercannergiz"
+          },
+          {
+            "author":"acar"
+          },
+          {
+            "author":"yucelsaygin"
+          }
+        ],
+        "journal":"ACM Transactions on Database Systems (TODS)",
+        "volnum":"36(1)",
+        "year":"2011",
+        "pdf":"nergiz_tods11.pdf",
+        "bibtex":"https://scholar.googleusercontent.com/scholar.bib?q=info:nyOzLb48mgwJ:scholar.google.com/&output=citation&scisdr=CgXEKm6kEP63p4rvPWI:AAGBfm0AAAAAXnvqJWKgNWYcViwxgSSsk8VIloYgxlqG&scisig=AAGBfm0AAAAAXnvqJfze0gCDjtN136YBH8D1TzjocrI7&scisf=4&ct=citation&cd=-1&hl=en",
+        "selected":"yes"
+      },
+      {
+        "title":"Anonymization of Administrative Billing Codes with Repeated Diagnoses through Censoring",
+        "authors":[
+          {
+            "author":"acar"
+          },
+          {
+            "author":"greg"
+          },
+          {
+            "author":"joshdenny"
+          },
+          {
+            "author":"brad"
+          }
+        ],
+        "conference":"the Proceedings of the 34th Annual Symposium of American Medical Informatics Association (AMIA)",
+        "year":"2010",
+        "pdf":"tamersoy_amia10.pdf",
+        "bibtex":"https://scholar.googleusercontent.com/scholar.bib?q=info:vNfzIE1iq1cJ:scholar.google.com/&output=citation&scisdr=CgXEKm6kEP63p4rvjOs:AAGBfm0AAAAAXnvqlOu7TpfmVOlmqG72JAWVTRTIHdyL&scisig=AAGBfm0AAAAAXnvqlMfPg_EEr35T3uVWASPFbOpMKG_s&scisf=4&ct=citation&cd=-1&hl=en",
+        "selected":"no"
+      }
+    ],
+    "patent":[
+      {
+        "title":"Systems and methods for providing parental controls for digital currency payments based on online behavior",
+        "authors":[
+          {
+            "author":"daniel"
+          },
+          {
+            "author":"johann"
+          },
+          {
+            "author":"yun"
+          },
+          {
+            "author":"david"
+          },
+          {
+            "author":"dan"
+          },
+          {
+            "author":"acar"
+          }
+        ],
+        "no":"Pending (Application No. 17/657,089)"
+      },
+      {
+        "title":"Systems and methods for preventing social media harassment",
+        "authors":[
+          {
+            "author":"daniel"
+          },
+          {
+            "author":"dan"
+          },
+          {
+            "author":"yun"
+          },
+          {
+            "author":"acar"
+          }
+        ],
+        "no":"Pending (Application No. 17/510,204)"
+      },
+      {
+        "title":"Systems and methods for detecting fraudulent shopping websites",
+        "authors":[
+          {
+            "author":"platon"
+          },
+          {
+            "author":"iskander"
+          },
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"daniel"
+          },
+          {
+            "author":"acar"
+          }
+        ],
+        "no":"Pending (Application No. 17/457,145)"
+      },
+      {
+        "title":"Systems and methods for utilizing user identity notifications to protect against potential privacy attacks on mobile devices",
+        "authors":[
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"acar"
+          },
+          {
+            "author":"yufei"
+          },
+          {
+            "author":"anil"
+          },
+          {
+            "author":"arif"
+          }
+        ],
+        "no":"Pending (Application No. 17/206,299)"
+      },
+      {
+        "title":"Systems and methods for protecting data on devices",
+        "authors":[
+          {
+            "author":"yufei"
+          },
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"acar"
+          },
+          {
+            "author":"daniel"
+          }
+        ],
+        "no":"Pending (Application No. 17/166,925)"
+      },
+      {
+        "title":"Systems and methods for detecting inter-personal attack applications",
+        "authors":[
+          {
+            "author":"yufei"
+          },
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"acar"
+          }
+        ],
+        "no":"Pending (Application No. 16/909,803)"
+      },
+      {
+        "title":"Managing access to shared digital content for romantic partners undergoing separation",
+        "authors":[
+          {
+            "author":"yixin"
+          },
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"acar"
+          }
+        ],
+        "no":"Pending (Application No. 16/717,876)"
+      },
+      {
+        "title":"Systems and methods for authenticating digital media content",
+        "authors":[
+          {
+            "author":"daniel"
+          },
+          {
+            "author":"chris"
+          },
+          {
+            "author":"acar"
+          },
+          {
+            "author":"dan"
+          }
+        ],
+        "no":"11,469,904",
+        "link":"https://patents.google.com/patent/US11469904B1"
+      },
+      {
+        "title":"Identifying and protecting against surveillance apps installed on client devices",
+        "authors":[
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"acar"
+          }
+        ],
+        "no":"11,295,015",
+        "link":"https://patents.google.com/patent/US11295015B1"
+      },
+      {
+        "title":"Protecting against an impersonation scam in a live video stream",
+        "authors":[
+          {
+            "author":"acar"
+          },
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"daniel"
+          },
+          {
+            "author":"platon"
+          }
+        ],
+        "no":"11,172,258",
+        "link":"https://patents.google.com/patent/US11172258B1"
+      },
+      {
+        "title":"Systems and methods for assuring authenticity of electronic sensor data",
+        "authors":[
+          {
+            "author":"daniel"
+          },
+          {
+            "author":"chris"
+          },
+          {
+            "author":"acar"
+          },
+          {
+            "author":"dan"
+          }
+        ],
+        "no":"11,128,473",
+        "link":"https://patents.google.com/patent/US11128473B1"
+      },  
+      {
+        "title":"Memory efficiency of production rule systems",
+        "authors":[
+          {
+            "author":"dan"
+          },
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"acar"
+          },
+          {
+            "author":"sandeep"
+          }
+        ],
+        "no":"11,010,680",
+        "link":"https://patents.google.com/patent/US11010680B1"
+      },
+      {
+        "title":"Identifying and protecting against computer security threats while preserving privacy of individual client devices using condensed local differential privacy (CLDP)",
+        "authors":[
+          {
+            "author":"emre"
+          },
+          {
+            "author":"acar"
+          }
+        ],
+        "special":"yes",
+        "no1":"10,789,363",
+        "link1":"https://patents.google.com/patent/US10789363B1",
+        "no2":"10,795,999",
+        "link2":"https://patents.google.com/patent/US10795999B1"
+      },
+      {
+        "title":"Systems and methods for detecting security incidents",
+        "authors":[
+          {
+            "author":"acar"
+          },
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"mikehart"
+          },
+          {
+            "author":"daniel"
+          },
+          {
+            "author":"mikespertus"
+          }
+        ],
+        "no":"10,530,805",
+        "link":"https://patents.google.com/patent/US10530805B1"
+      },
+      {
+        "title":"Systems and methods for real-time scam protection on phones",
+        "authors":[
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"mahmood"
+          },
+          {
+            "author":"acar"
+          }
+        ],
+        "no":"10,455,085",
+        "link":"https://patents.google.com/patent/US10455085B1"
+      },
+      {
+        "title":"Modeling malicious behavior that occurs in the absence of users",
+        "authors":[
+          {
+            "author":"acar"
+          },
+          {
+            "author":"sandeep"
+          },
+          {
+            "author":"dan"
+          },
+          {
+            "author":"kevin"
+          }
+        ],
+        "no":"10,452,841",
+        "link":"https://patents.google.com/patent/US10452841B1"
+      },
+      {
+        "title":"Systems and methods for preventing malicious network connections using correlation-based anomaly detection",
+        "authors":[
+          {
+            "author":"acar"
+          },
+          {
+            "author":"kevin"
+          }
+        ],
+        "no":"10,142,357",
+        "link":"https://www.google.com/patents/US10142357B1"
+      },
+      {
+        "title":"Systems and methods for establishing reputations of files",
+        "authors":[
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"acar"
+          },
+          {
+            "author":"sourabhsatish"
+          }
+        ],
+        "no":"9,323,924",
+        "link":"https://www.google.com/patents/US9323924"
+      },
+      {
+        "title":"Systems and methods for detecting malware using file clustering",
+        "authors":[
+          {
+            "author":"acar"
+          },
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"dan"
+          }
+        ],
+        "no":"9,185,119",
+        "link":"https://www.google.com/patents/US9185119"
+      },
+      {
+        "title":"Systems and methods for adjusting suspiciousness scores in event-correlation graphs",
+        "authors":[
+          {
+            "author":"acar"
+          },
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"sandeep"
+          },
+          {
+            "author":"elias"
+          }
+        ],
+        "no":"9,148,441",
+        "link":"https://www.google.com/patents/US9148441"
+      },
+      {
+        "title":"Systems and methods for using event-correlation graphs to detect attacks on computing systems",
+        "authors":[
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"fanglu"
+          },
+          {
+            "author":"sandeep"
+          },
+          {
+            "author":"taocheng"
+          },
+          {
+            "author":"jiefu"
+          },
+          {
+            "author":"zhikaili"
+          },
+          {
+            "author":"darren"
+          },
+          {
+            "author":"sanjay"
+          },
+          {
+            "author":"acar"
+          },
+          {
+            "author":"elias"
+          }
+        ],
+        "no":"9,141,790",
+        "link":"https://www.google.com/patents/US9141790"
+      }
+    ]
+  }
+}
