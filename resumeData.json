@@ -1188,21 +1188,6 @@
         "no":"Pending (Application No. 17/166,925)"
       },
       {
-        "title":"Systems and methods for detecting inter-personal attack applications",
-        "authors":[
-          {
-            "author":"yufei"
-          },
-          {
-            "author":"kevin"
-          },
-          {
-            "author":"acar"
-          }
-        ],
-        "no":"Pending (Application No. 16/909,803)"
-      },
-      {
         "title":"Managing access to shared digital content for romantic partners undergoing separation",
         "authors":[
           {
@@ -1216,6 +1201,22 @@
           }
         ],
         "no":"Pending (Application No. 16/717,876)"
+      },
+      {
+        "title":"Systems and methods for detecting inter-personal attack applications",
+        "authors":[
+          {
+            "author":"yufei"
+          },
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"acar"
+          }
+        ],
+        "no":"11,556,653",
+        "link":"https://patents.google.com/patent/US11556653B1"
       },
       {
         "title":"Systems and methods for authenticating digital media content",
