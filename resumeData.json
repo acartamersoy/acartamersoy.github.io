@@ -1149,27 +1149,6 @@
         "no":"Pending (Application No. 17/457,145)"
       },
       {
-        "title":"Systems and methods for utilizing user identity notifications to protect against potential privacy attacks on mobile devices",
-        "authors":[
-          {
-            "author":"kevin"
-          },
-          {
-            "author":"acar"
-          },
-          {
-            "author":"yufei"
-          },
-          {
-            "author":"anil"
-          },
-          {
-            "author":"arif"
-          }
-        ],
-        "no":"Pending (Application No. 17/206,299)"
-      },
-      {
         "title":"Systems and methods for protecting data on devices",
         "authors":[
           {
@@ -1201,6 +1180,28 @@
           }
         ],
         "no":"Pending (Application No. 16/717,876)"
+      },
+      {
+        "title":"Systems and methods for utilizing user identity notifications to protect against potential privacy attacks on mobile devices",
+        "authors":[
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"acar"
+          },
+          {
+            "author":"yufei"
+          },
+          {
+            "author":"anil"
+          },
+          {
+            "author":"arif"
+          }
+        ],
+        "no":"11,812,272",
+        "link":"https://patents.google.com/patent/US11812272B1"
       },
       {
         "title":"Systems and methods for detecting inter-personal attack applications",
