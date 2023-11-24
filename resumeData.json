@@ -258,6 +258,15 @@
     },
     "iskander":{
       "name":"Iskander Sanchez-Rola"
+    },
+    "leyla":{
+      "name":"Leylya Yumer"
+    },
+    "michalis":{
+      "name":"Michalis Pachilakis"
+    },
+    "yue":{
+      "name":"Yue Zhao"
     }
   },
   "resume":{
@@ -1086,6 +1095,63 @@
     ],
     "patent":[
       {
+        "title":"Privacy-preserving threat detection with one-class models in federated learning",
+        "authors":[
+          {
+            "author":"yue"
+          },
+          {
+            "author":"acar"
+          },
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"daniel"
+          },
+          {
+            "author":"michalis"
+          }
+        ],
+        "no":"Pending (Application No. 18/468,213)"
+      },
+      {
+        "title":"Protecting against malicious websites using repetitive data signatures",
+        "authors":[
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"platon"
+          },
+          {
+            "author":"iskander"
+          },
+          {
+            "author":"michalis"
+          },
+          {
+            "author":"leyla"
+          },
+          {
+            "author":"acar"
+          }
+        ],
+        "no":"Pending (Application No. 18/487,700)"
+      },
+      {
+        "title":"Systems and methods for utilizing multiple analysis techniques to distinguish stalkerware from privacy-invasive application types",
+        "authors":[
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"acar"
+          }
+        ],
+        "no":"Pending (Application No. 17/809,375)"
+      },
+      {
         "title":"Systems and methods for providing parental controls for digital currency payments based on online behavior",
         "authors":[
           {
@@ -1149,6 +1215,21 @@
         "no":"Pending (Application No. 17/457,145)"
       },
       {
+        "title":"Managing access to shared digital content for romantic partners undergoing separation",
+        "authors":[
+          {
+            "author":"yixin"
+          },
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"acar"
+          }
+        ],
+        "no":"Pending (Application No. 16/717,876)"
+      },
+      {
         "title":"Systems and methods for protecting data on devices",
         "authors":[
           {
@@ -1164,22 +1245,8 @@
             "author":"daniel"
           }
         ],
-        "no":"Pending (Application No. 17/166,925)"
-      },
-      {
-        "title":"Managing access to shared digital content for romantic partners undergoing separation",
-        "authors":[
-          {
-            "author":"yixin"
-          },
-          {
-            "author":"kevin"
-          },
-          {
-            "author":"acar"
-          }
-        ],
-        "no":"Pending (Application No. 16/717,876)"
+        "no":"11,816,209",
+        "link":"https://patents.google.com/patent/US11816209B1"
       },
       {
         "title":"Systems and methods for utilizing user identity notifications to protect against potential privacy attacks on mobile devices",
