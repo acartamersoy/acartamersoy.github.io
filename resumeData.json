@@ -3,7 +3,7 @@
     "name":"Acar Tamersoy",
     "title":"Dr.",
     "image":"profilepic.jpeg",
-    "position":"I'm a senior research scientist at Gen (formerly NortonLifeLock and Symantec).",
+    "position":"I'm a senior research scientist at Gen (formerly known as NortonLifeLock and Symantec).",
     "bio":"I hold a Ph.D. in Computer Science from Georgia Institute of Technology. My research focus is at the intersection of machine learning, security, and privacy. A common technical theme in my research is the use of graphs to capture the relationships between entities in a structure that can then be exploited computationally towards a solution to a given problem. In my recent work, I leverage quantitative methods to improve people's online security and privacy posture."
   },
   "people":{
