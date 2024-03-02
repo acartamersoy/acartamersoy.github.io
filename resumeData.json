@@ -1095,27 +1095,6 @@
     ],
     "patent":[
       {
-        "title":"Privacy-preserving threat detection with one-class models in federated learning",
-        "authors":[
-          {
-            "author":"yue"
-          },
-          {
-            "author":"acar"
-          },
-          {
-            "author":"kevin"
-          },
-          {
-            "author":"daniel"
-          },
-          {
-            "author":"michalis"
-          }
-        ],
-        "no":"Pending (Application No. 18/468,213)"
-      },
-      {
         "title":"Protecting against malicious websites using repetitive data signatures",
         "authors":[
           {
@@ -1138,6 +1117,51 @@
           }
         ],
         "no":"Pending (Application No. 18/487,700)"
+      },
+      {
+        "title":"Privacy-preserving threat detection with one-class models in federated learning",
+        "authors":[
+          {
+            "author":"yue"
+          },
+          {
+            "author":"acar"
+          },
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"daniel"
+          },
+          {
+            "author":"michalis"
+          }
+        ],
+        "no":"Pending (Application No. 18/468,213)"
+      },
+      {
+        "title":"Systems and methods for utilizing graph neural networks for scam website detection",
+        "authors":[
+          {
+            "author":"acar"
+          },
+          {
+            "author":"kevin"
+          },
+          {
+            "author":"platon"
+          },
+          {
+            "author":"michalis"
+          },
+          {
+            "author":"iskander"
+          },
+          {
+            "author":"leyla"
+          }
+        ],
+        "no":"Pending (Application No. 18/419,999)"
       },
       {
         "title":"Systems and methods for utilizing multiple analysis techniques to distinguish stalkerware from privacy-invasive application types",
